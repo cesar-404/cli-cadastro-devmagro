@@ -16,4 +16,5 @@ O usuário poderá usar um sistema de CADASTRO via CLI (no terminal), em que o u
 git clone https://github.com/cesar-404/cli-cadastro-devmagro
 cd /cli-cadastro-devmagro
 cd src/
+javac Main.java
 java Main
